@@ -1,0 +1,19 @@
+# Share only workspace guidance and reusable tools. Film folders stay local.
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/CLAUDE.md
+!/direction.md
+!/assets.md
+!/shots.md
+!/post.md
+!/genres.md
+!/models.md
+!/requirements.txt
+!/LICENSE-CC-BY-4.0
+!/LICENSE-APACHE-2.0
+!/seamstitch/
+__pycache__/
+*.pyc
+.DS_Store
